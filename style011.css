@@ -1,0 +1,113 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Ubuntu Condensed';
+    border: none;
+    outline: none;
+
+}
+
+
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.no-b{
+    width: 600PX;
+    height: 100PX;
+    margin: 0 auto 
+
+}
+
+
+.new-kit{
+  
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid black ;
+    background-image: url(bg-01.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 170px;
+}
+
+.eleven{
+    
+    width: 100px;
+    height: 50px;
+    font-family: 'Viga';font-size: 22px;
+    box-shadow: 2px;
+    border: 2px;
+    text-align: center;
+    margin: 0 auto ;
+    display: block;
+}
+
+.in-bo {
+    width: 300px;
+    height: 50px;
+    background-color: #D6C5D0;
+    box-shadow: 2px gray;
+    border: 2px solid;
+    border-color: 	#708090;
+    text-align: center;
+    font-family: 'Ubuntu Condensed';font-size: 18px;
+    margin: 0 auto ;
+
+
+
+}
+
+.cm011{   
+    margin: 0 auto ;
+    width: 300px;
+    background-color: #D6C5D0;
+    box-shadow: 2px black;
+    border: 2px solid;
+    border-color: 	#708090;
+    text-align: center;
+    font-family: 'Ubuntu Condensed';font-size: 18px;
+
+
+}
+
+.ingo{
+    margin: 0 auto ;
+    width: 300px;
+    background-color: #4CC947;
+    box-shadow: 2px lightcyan;
+    border: 2px solid;
+    border-color:#203D0E;
+    text-align: center;
+    font-family: 'Ubuntu Condensed';font-size: 22px;
+
+
+}
+
+#googlemaps { 
+    height: 100%; 
+    width: 100%; 
+    position:absolute; 
+    top: 0; 
+    left: 0; 
+    z-index: 0; 
+  }
+  
+  #contactform { 
+    position: relative; 
+    z-index: 1;
+    width: 300px;
+    margin: 60px auto 0;
+    padding: 10px;
+    background: black;
+    height: auto;
+    opacity: .45; 
+    color: white;
+  }
+
+  
